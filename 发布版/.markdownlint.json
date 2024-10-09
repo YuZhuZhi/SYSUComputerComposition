@@ -1,0 +1,6 @@
+{
+  "MD013": false, 
+  "MD033": {
+    "allowed_elements": ["image", "h2", "span", "thead", "td", "table", "tr", "th", "tbody", "iamge"]
+  }
+}
