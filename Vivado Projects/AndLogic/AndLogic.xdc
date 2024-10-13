@@ -1,0 +1,8 @@
+set_property PACKAGE_PIN W5 [get_ports CLK]
+set_property PACKAGE_PIN V16 [get_ports Data1]
+set_property PACKAGE_PIN V17 [get_ports Data2]
+set_property PACKAGE_PIN U16 [get_ports Result]
+set_property IOSTANDARD LVCMOS33 [get_ports CLK]
+set_property IOSTANDARD LVCMOS33 [get_ports Data1]
+set_property IOSTANDARD LVCMOS33 [get_ports Data2]
+set_property IOSTANDARD LVCMOS33 [get_ports Result]
